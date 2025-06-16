@@ -7,3 +7,8 @@ Financial planning plays a vital role in building a secure and stable future. As
 - **Singireddy Harish Reddy**  
 - **Gollapudi Tilak**  
 - **Arya Spoorthy**
+
+## 🎓 Guided By
+
+**S. Kranthi Reddy**  
+Assistant Professor, Vignan Institute of Technology & Science
