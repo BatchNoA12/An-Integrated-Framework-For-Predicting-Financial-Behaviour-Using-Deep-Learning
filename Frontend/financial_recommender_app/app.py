@@ -142,7 +142,3 @@ if submitted:
         </div>
         """, unsafe_allow_html=True)
 
-# ------------------------
-# Footer with Your Name
-# ------------------------
-st.markdown("<div class='footer'>Built by <b>Harish Reddy Singireddy </b> <b>Tilak Gollapudi </b> <b>Spoorthy Arya</b>🌟</div>", unsafe_allow_html=True)
